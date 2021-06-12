@@ -1,6 +1,6 @@
 # MLNow-
 
-This repository is created by <h2>Gaurav Srivastava</h2> for Machine Learning training purpose
+This repository is created by <h2>Gaurav Srivastava</h2> for practising writing professional code in Machine Learning related applications    
 
 
 ### Setup & Installation
